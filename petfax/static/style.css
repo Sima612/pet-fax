@@ -1,0 +1,33 @@
+
+
+.container {
+    width: 100%;
+    margin: 2em auto;
+    padding: 1em 3em 3em 3em;
+    border-radius: 1em;
+    text-align: center;
+}
+h1 {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+h2, a {
+    width: 25%;
+}
+.pets-container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img {
+    width: 300px;
+    height: 250px;
+}
+
+.pets {
+    width: 25%;
+    display: flex;
+    flex-wrap: wrap;
+}
